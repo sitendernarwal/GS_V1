@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4169E1</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Tool button states -->
+    <color name="tool_normal">#000000</color> <!-- Gray color -->
+    <color name="tool_selected">#4169E1</color> <!-- Blue color -->
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#AAAAAA</color>
+
+    <!-- Background colors -->
+    <color name="background_main">#F8F9FA</color>
+    <color name="background_card">#FFFFFF</color>
+
+    <!-- Drawing colors -->
+    <color name="blue">#4169E1</color>
+    <color name="purple">#800080</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="orange">#FFA500</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

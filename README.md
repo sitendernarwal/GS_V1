@@ -19,16 +19,16 @@ GS_V1 is a versatile and feature-rich drawing application for Android devices, d
 Here’s a glimpse of GS_V1 in action (replace placeholders with actual screenshots):
 
 - **Main Drawing Interface**  
-  ![Main Interface](screenshots/main_interface.png)
+  ![Main Interface](screenshots/ss1.jpg)
 
 - **Tool Selection**  
-  ![Tool Selection](screenshots/tool_selection.png)
+  ![Tool Selection](screenshots/tool.jpg)
 
 - **Layer Management**  
-  ![Layer Management](screenshots/layer_management.png)
+  ![Layer Management](screenshots/layer.jpg)
 
 - **Zoom and Pan**  
-  ![Zoom and Pan](screenshots/zoom_pan.png)
+  ![Zoom and Pan](screenshots/layer.jpg)
 
 ## Installation
 

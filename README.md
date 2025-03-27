@@ -16,19 +16,26 @@ GS_V1 is a versatile and feature-rich drawing application for Android devices, d
 
 ## Screenshots
 
-Here’s a glimpse of GS_V1 in action (replace placeholders with actual screenshots):
+Here’s a glimpse of GS_V1 in action:
 
-- **Main Drawing Interface**  
-  ![Main Interface](screenshots/ss1.jpg)
-
-- **Tool Selection**  
-  ![Tool Selection](screenshots/tool.jpg)
-
-- **Layer Management**  
-  ![Layer Management](screenshots/layer.jpg)
-
-- **Zoom and Pan**  
-  ![Zoom and Pan](screenshots/layer.jpg)
+<table>
+<tr>
+<td align="center"><strong>Main Drawing Interface</strong></td>
+<td align="center"><strong>Tool Selection</strong></td>
+</tr>
+<tr>
+<td><img src="screenshots/ss1.jpg" width="300"></td>
+<td><img src="screenshots/tool.jpg" width="300"></td>
+</tr>
+<tr>
+<td align="center"><strong>Layer Management</strong></td>
+<td align="center"><strong>Zoom and Pan</strong></td>
+</tr>
+<tr>
+<td><img src="screenshots/layer.jpg" width="300"></td>
+<td><img src="screenshots/zoom.jpg" width="300"></td>
+</tr>
+</table>
 
 ## Installation
 
@@ -130,3 +137,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For support, feedback, or questions, feel free to:
 - Reach out to [sitendernarwal](https://github.com/sitendernarwal).
 - Open an issue on the [GitHub repository](https://github.com/sitendernarwal/GS_V1).
+

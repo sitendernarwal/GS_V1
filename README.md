@@ -128,13 +128,11 @@ We’d love your help to make GS_V1 even better! To contribute:
 
 Please ensure your code adheres to the project’s coding standards and includes relevant tests where applicable.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For support, feedback, or questions, feel free to:
+- Follow on instagram [sitendernarwal](https://instagram.com/sitendernarwal)
 - Reach out to [sitendernarwal](https://github.com/sitendernarwal).
 - Open an issue on the [GitHub repository](https://github.com/sitendernarwal/GS_V1).
+  
 
